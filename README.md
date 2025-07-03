@@ -1,6 +1,3 @@
-https://www.youtube.com/watch?v=GquEU3Bt_uc
-menit 2:26:16
-
 ![Eep Syaiful Nurohman](public/assets/github/header.png)
 
 #### Skills
